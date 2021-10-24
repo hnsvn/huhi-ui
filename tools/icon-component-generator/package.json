@@ -1,0 +1,18 @@
+{
+  "name": "icon-component-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@balajmarius/svg2jsx": "github:huhi/svg2jsx#507bc7e3782f838fc28af639bfcd24bb4435a218",
+    "html": "^1.0.0",
+    "mkdirp-promise": "^5.0.1",
+    "mz": "^2.7.0",
+    "svgo": "^1.2.2"
+  }
+}
