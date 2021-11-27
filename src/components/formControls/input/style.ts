@@ -3,7 +3,7 @@
  * You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 import styled from 'styled-components'
-import theme from '../../../theme/huhi-default'
+import theme from '../../../theme/brave-default'
 import { InputProps } from './index'
 
 export const InputComponent = styled('div')<InputProps>`

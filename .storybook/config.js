@@ -2,8 +2,8 @@ import 'emptykit.css'
 import { initLocale } from '../src/helpers'
 import { configure, addDecorator, addParameters } from '@storybook/react'
 import locales from '../stories/assets/locale'
-import DarkTheme from '../src/theme/huhi-dark'
-import DefaultTheme from '../src/theme/huhi-default'
+import DarkTheme from '../src/theme/brave-dark'
+import DefaultTheme from '../src/theme/brave-default'
 import { withThemesProvider } from 'storybook-addon-styled-component-theme'
 
 addParameters({
@@ -17,7 +17,7 @@ addParameters({
 
 addParameters({
   options: {
-    name: 'Huhi UI',
+    name: 'Brave UI',
     panelPosition: 'right',
     showNav: true,
     showPanel: true,

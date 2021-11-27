@@ -59,7 +59,7 @@ storiesOf('Components', module)
           <Button level='tertiary' type='accent' text='Disabled' disabled={true} />
         </ComponentTypes>
         <ComponentTypes>
-          <Button level='primary' type='accent' text='Huhi' />
+          <Button level='primary' type='accent' text='Brave' />
           <Button level='primary' type='accent' brand='rewards' text='Rewards' />
         </ComponentTypes>
         <ComponentTypes>

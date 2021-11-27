@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@balajmarius/svg2jsx": "github:huhi/svg2jsx#507bc7e3782f838fc28af639bfcd24bb4435a218",
+    "@balajmarius/svg2jsx": "github:brave/svg2jsx#507bc7e3782f838fc28af639bfcd24bb4435a218",
     "html": "^1.0.0",
     "mkdirp-promise": "^5.0.1",
     "mz": "^2.7.0",

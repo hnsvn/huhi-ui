@@ -29,10 +29,10 @@ const getThemeColors = (p: StyledProps<Props>) => {
   } else {
     switch (p.type) {
       case 'accent':
-        if (p.brand === 'huhi') {
-          mainColor = p.theme.color.brandHuhi
-          hoverColor = p.theme.color.brandHuhiInteracting
-          activeColor = p.theme.color.brandHuhiActive
+        if (p.brand === 'brave') {
+          mainColor = p.theme.color.brandBrave
+          hoverColor = p.theme.color.brandBraveInteracting
+          activeColor = p.theme.color.brandBraveActive
         } else if (p.brand === 'rewards') {
           mainColor = p.theme.color.brandBat
           hoverColor = p.theme.color.brandBatInteracting

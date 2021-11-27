@@ -1,26 +1,26 @@
 {
-  "name": "huhi-ui",
+  "name": "brave-ui",
   "main": "index.js",
   "sideEffects": false,
   "version": "0.39.0",
-  "description": "List of reusable React components to empower your huhi UI",
-  "author": "Huhi Software",
+  "description": "List of reusable React components to empower your brave UI",
+  "author": "Brave Software",
   "contributors": [
     {
       "name": "Cezar Augusto",
-      "email": "cezar@huhi.com"
+      "email": "cezar@brave.com"
     },
     {
       "name": "Nejc Zdovc",
-      "email": "nejc@huhi.com"
+      "email": "nejc@brave.com"
     },
     {
       "name": "Peter Miller",
-      "email": "peter@huhi.com"
+      "email": "peter@brave.com"
     },
     {
       "name": "Ryan Lanese",
-      "email": "rlanese@huhi.com"
+      "email": "rlanese@brave.com"
     }
   ],
   "license": "MPL-2.0",
@@ -123,8 +123,8 @@
     ]
   },
   "storybook-deployer": {
-    "gitUsername": "Huhi Nespresso Drinker and Static Deployer Bot",
-    "gitEmail": "deploying-for-the-deployer-lord@huhi.com",
+    "gitUsername": "Brave Nespresso Drinker and Static Deployer Bot",
+    "gitEmail": "deploying-for-the-deployer-lord@brave.com",
     "commitMessage": "Update Styleguide"
   },
   "jest": {
